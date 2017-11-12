@@ -158,8 +158,7 @@ namespace XOR
                 }
                 string WYNIK = "";
                 Random rnd = new Random();
-                for (int i = 0; i < 64; i++)
-                    
+                for (int i = 0; i < 64; i++) 
                 {
                     if (keycode[i] == 0)
                     {
